@@ -1,0 +1,16 @@
+C:\Users\kalvi\Documents\program latihan algo\obj\Debug\net5.0\program latihan algo.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\program latihan algo\obj\Debug\net5.0\program latihan algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\program latihan algo\obj\Debug\net5.0\program latihan algo.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\program latihan algo\obj\Debug\net5.0\program latihan algo.AssemblyInfo.cs
+C:\Users\kalvi\Documents\program latihan algo\obj\Debug\net5.0\program latihan algo.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\Documents\program latihan algo\bin\Debug\net5.0\program latihan algo.exe
+C:\Users\kalvi\Documents\program latihan algo\bin\Debug\net5.0\program latihan algo.deps.json
+C:\Users\kalvi\Documents\program latihan algo\bin\Debug\net5.0\program latihan algo.runtimeconfig.json
+C:\Users\kalvi\Documents\program latihan algo\bin\Debug\net5.0\program latihan algo.runtimeconfig.dev.json
+C:\Users\kalvi\Documents\program latihan algo\bin\Debug\net5.0\program latihan algo.dll
+C:\Users\kalvi\Documents\program latihan algo\bin\Debug\net5.0\ref\program latihan algo.dll
+C:\Users\kalvi\Documents\program latihan algo\bin\Debug\net5.0\program latihan algo.pdb
+C:\Users\kalvi\Documents\program latihan algo\obj\Debug\net5.0\program latihan algo.dll
+C:\Users\kalvi\Documents\program latihan algo\obj\Debug\net5.0\ref\program latihan algo.dll
+C:\Users\kalvi\Documents\program latihan algo\obj\Debug\net5.0\program latihan algo.pdb
+C:\Users\kalvi\Documents\program latihan algo\obj\Debug\net5.0\program latihan algo.genruntimeconfig.cache
